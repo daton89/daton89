@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm very passionate Frontend Engineer.<br>I like to explore and learn new stuff from UI to Infrastructure.
+I'm a very passionate Frontend Engineer.<br>I like to explore and learn new stuff from UI to Infrastructure.
 
 
 # 💻 Tech Stack:
